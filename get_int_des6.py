@@ -65,7 +65,7 @@ def interface_description(host):
 user="adm-ype2ub"
 pw="KullenAugust2018"
 
-hostfile = open('switche_vs.txt','r')
+hostfile = open('switche_ouh.txt','r')
 outputfile = open('port_des.txt','w')
 outputfile.write("IP-adresse;Switchnavn;Vlan;Interface;Port-Description\n")
 
